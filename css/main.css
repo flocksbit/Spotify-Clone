@@ -1,0 +1,51 @@
+html,
+body,
+#home {
+    height: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    background: url(../img/capa.png), url(../img/ruido.png),
+        linear-gradient(50deg, #ff4169, #7c26f8);
+    background-attachment: fixed;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+/* Estrutura de conteúdos */
+.caixa {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#servicos {
+    background: white;
+}
+
+#servicos h2,
+h3 {
+    color: #7c26f8;
+}
+
+#recursos h2 {
+    color: white;
+}
+
+#recursos h3 {
+    color: #9bf0e1;
+}
+
+#recursos {
+    color: white;
+}
+
+
+.albuns {
+    padding: 10px 0;
+}
+
+.rotacionar {
+    transform: rotate(30deg);
+    padding-left: 80px;
+}
+
