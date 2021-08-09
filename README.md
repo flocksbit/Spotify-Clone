@@ -3,4 +3,4 @@
 Site feito para treinar o desenvolvimento web.
 Site resposivo e desenvolvido com boostrap 4.
 
-### link do site: [aqui](https://matheus-java.github.io/Spotify-Clone/)
+### link do site: [aqui](https://arquivojson.github.io/Spotify-Clone/)
